@@ -1,0 +1,149 @@
+{
+  "name": "BubblegumBliss",
+  "version": "1.0.0",
+  "description": "Bubblegum Bliss theme for Enmity",
+  "authors": [
+    {
+      "name": "RyanFol#0001",
+      "id": "12345678910111213"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#28282B",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#655560",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FE5BAC",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dda3b2",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#f9b4ed",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#37323e",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#36454f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#fdecef",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#fdecef",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#fdecef",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FE5BAC",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#101014",
+      "#FFFFFF"
+    ],
+    "CHANNEL_ICON": [
+      "#ffe9f3",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#bb7e8c",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#FE5BAC",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#FE5BAC",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK_600": "#36454f",
+    "PRIMARY_DARK_500": "#FE5BAC",
+    "PRIMARY_DARK_630": "#36454f",
+    "PRIMARY_DARK_800": "#36454f",
+    "BRAND_NEW": "#FE5BAC",
+    "BRAND_NEW_360": "#07F985",
+    "WHITE": "#FFFFFF",
+    "STATUS_RED": "#FF1F4F",
+    "STATUS_GREEN_600": "#07F985"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#36454f"
+  },
+  "color": "#FE5BAC",
+  "background (Not In Use)": {
+    "url": "https://w0.peakpx.com/wallpaper/119/734/HD-wallpaper-pink-background-clear-homescreen-softpink-thumbnail.jpg",
+    "blur": "1",
+    "alpha": "1.0"
+  }
+}
